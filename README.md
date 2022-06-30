@@ -1,6 +1,6 @@
 ### Projeto Github Cards
 
-### TESTE AQUI -> https://github-cards-project.herokuapp.com
+### TESTE AQUI -> https://star-wars-memory.herokuapp.com
 
 ## Como ficou?
 
