@@ -4,4 +4,4 @@
 
 ## Como ficou?
 
-![cards github](https://github.com/guidolingip1/Star-Wars-Memory-Game/resultados.gif)
+![star wars game gif](https://github.com/guidolingip1/Star-Wars-Memory-Game/blob/master/resultados.gif)
