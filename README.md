@@ -1,4 +1,4 @@
-### Projeto Github Cards
+### Projeto Star Wars
 
 ### TESTE AQUI -> https://star-wars-memory.herokuapp.com
 
